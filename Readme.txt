@@ -1,4 +1,4 @@
-AI Fundamentals | Lesson 2
+AI Fundamentals Lesson 2
 Group Practice: Collaborate on a
 SpringBoot ClassManager project
 using GitHub Copilot
